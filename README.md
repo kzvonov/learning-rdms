@@ -1,6 +1,6 @@
-# Postgres Educational Project
+# RDMS Educational Project
 
-There is nothing special
+Just me, learning Postgres
 
 ## Requirements
 
@@ -10,8 +10,8 @@ There is nothing special
 ## Usage
 
 ```bash
-# To start postgres server
-make start
+# To start postgres container on 5432 port
+make run
 
 # To use psql
 make psql
